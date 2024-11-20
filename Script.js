@@ -1,9 +1,9 @@
 var typed = new Typed(".multiple-text", {
-    strings: ["UI/UX Developer & Designer",""],
-    typeSpeed: 100,
-    backSpeed: 100,
-    backDelay: 1000,
-    loop: true,
+    strings: ["UI/UX Developer & Designer"],
+    typeSpeed: 200,
+    backSpeed: 200,
+    backDelay: 2000,
+    
 })
 
 function filterSelection(category) {
